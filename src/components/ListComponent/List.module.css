@@ -1,0 +1,9 @@
+.postList {
+    padding-left: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(3, 30%);
+    gap: 1rem;
+    max-width: 50rem;
+    justify-content: center;
+}
